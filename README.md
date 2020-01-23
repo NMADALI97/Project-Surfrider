@@ -35,7 +35,7 @@ The repository includes:
 
 # Mask-RCNN and Taco transfer learning 
 
-Using pre-trained COCO weights trained on http://tacodataset.org/ as in https://github.com/pedropro/TACO.
+Using pre-trained TACO weights trained on http://tacodataset.org/ as in https://github.com/pedropro/TACO.
 
 ![TensorBoard](logs.png)
 
