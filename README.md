@@ -1,6 +1,6 @@
 # Project-Surfrider
 
-Authors: MADALI Nabil
+Authors: **MADALI Nabil**
 
 
 
