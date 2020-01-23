@@ -37,6 +37,6 @@ The repository includes:
 
 Using pre-trained COCO weights trained on http://tacodataset.org/ as in https://github.com/pedropro/TACO.
 
-![TensorBoard](loss.png)
+![TensorBoard](logs.png)
 
 
