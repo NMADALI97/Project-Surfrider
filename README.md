@@ -22,7 +22,7 @@ Your goal is to build a short project around plastic detection using modern Deep
 
 This is an implementation of [Mask R-CNN](https://arxiv.org/abs/1703.06870) on Python 3, Keras, and TensorFlow. The model generates bounding boxes and segmentation masks for each instance of an object in the image. It's based on Feature Pyramid Network (FPN) and a ResNet101 backbone.
 
-![Instance Segmentation Sample](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwi34MXFy5rnAhXFxIUKHefDAiIQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fmask-r-cnn-explained-7f82bec890e3%2F&psig=AOvVaw1Wzq4cHjtOLjyTswaEWM08&ust=1579898716117464)
+![Instance Segmentation Sample](https://cdn-media-1.freecodecamp.org/images/1*ByJ4h3U6KGoCcd3z6_Bg9Q.png)
 
 The repository includes:
 * Source code of Mask R-CNN built on FPN and ResNet101.
